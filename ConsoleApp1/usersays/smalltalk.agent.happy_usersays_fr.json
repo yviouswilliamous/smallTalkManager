@@ -1,0 +1,237 @@
+[
+  {
+    "id": "753ca6e9-c122-4268-aa19-4a9be28e10f1",
+    "data": [
+      {
+        "text": "tu es heureux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec7fbde9-2ed7-4098-a69c-42e0a5f10ee1",
+    "data": [
+      {
+        "text": "es-tu contente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4b31009-c1fa-435a-a3bb-19226f3d58f6",
+    "data": [
+      {
+        "text": "tu es heureux ou ",
+        "userDefined": false
+      },
+      {
+        "text": "non",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44b4eefd-ee6f-4686-a344-aa68425d2c28",
+    "data": [
+      {
+        "text": "tu es ",
+        "userDefined": false
+      },
+      {
+        "text": "content",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56404cc0-058f-4b4f-8025-01375182da6d",
+    "data": [
+      {
+        "text": "es-tu heureux aujourd\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "hui",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cebc1a5a-5915-4c9f-8820-3dffbc8504d4",
+    "data": [
+      {
+        "text": "est-ce que tu es ",
+        "userDefined": false
+      },
+      {
+        "text": "content",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aujourd\u0027hui",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d55ef5a-3dbe-4d21-a4ab-28b1d8822cfd",
+    "data": [
+      {
+        "text": "tu es heureux ou triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "164838cb-7a2d-428c-96d4-d7514f9fd3a5",
+    "data": [
+      {
+        "text": "est-ce que tu es ",
+        "userDefined": false
+      },
+      {
+        "text": "heureuse",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ou triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59518316-1b04-4f44-9282-93beb722586b",
+    "data": [
+      {
+        "text": "es-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "heureuse",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "45fe4361-f16b-4161-8317-3e83771bacd6",
+    "data": [
+      {
+        "text": "es-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "content",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d8c401b-8dc9-4b2c-8151-64080f356c01",
+    "data": [
+      {
+        "text": "tu es ",
+        "userDefined": false
+      },
+      {
+        "text": "heureuse",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8810642-bc11-4f48-83ca-0641589f4c28",
+    "data": [
+      {
+        "text": "tu es contente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01666a8b-040a-4c63-a771-0c33ccdddab5",
+    "data": [
+      {
+        "text": "es-tu heureux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfd9c286-25d7-4678-9e72-b9bfa1328bfb",
+    "data": [
+      {
+        "text": "tu es ",
+        "userDefined": false
+      },
+      {
+        "text": "heureuse",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ou ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

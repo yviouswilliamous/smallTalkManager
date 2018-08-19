@@ -1,0 +1,157 @@
+[
+  {
+    "id": "32599c0d-a011-4be4-91fd-f4dc0a911773",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis presque là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21160e8d-40a8-4e54-82cc-7360ca983f2e",
+    "data": [
+      {
+        "text": "presque là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ae75459-6017-4c6c-89d8-41a55447e749",
+    "data": [
+      {
+        "text": "je suis ici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8796bca4-2af3-40b3-9fcd-a8d9b7abe969",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis déjà là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "344d6a97-2496-432a-a6af-e3cce4ef8e54",
+    "data": [
+      {
+        "text": "maintenant je suis là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13cc9116-4f85-4460-b837-d6f7c07a6e83",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis déjà ",
+        "userDefined": false
+      },
+      {
+        "text": "ici",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b77114bd-89ca-4782-962c-8030d7464764",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis presqu\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "ici",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6b3f35f-eef4-49b1-861d-f9485986f9f0",
+    "data": [
+      {
+        "text": "je suis là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fce7b8e-93a4-4254-9287-34f75c472755",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis là déjà",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4511f154-11fb-4d1e-b8d9-ab732b2560de",
+    "data": [
+      {
+        "text": "c\u0027est bon je suis là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

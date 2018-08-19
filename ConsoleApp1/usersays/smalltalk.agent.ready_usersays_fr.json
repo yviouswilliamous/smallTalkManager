@@ -1,0 +1,146 @@
+[
+  {
+    "id": "46e14945-a018-4246-944e-4116efb0da15",
+    "data": [
+      {
+        "text": "es-tu prête",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55cdea70-4967-4ab2-992b-198f36b956f2",
+    "data": [
+      {
+        "text": "tu es prêt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93cbeb8e-5055-4208-a4e4-9f72c85c4849",
+    "data": [
+      {
+        "text": "es-tu prêt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dede03c9-9263-45a8-8c64-c80ec0fcdcd5",
+    "data": [
+      {
+        "text": "fais-moi savoir quand tu es prête",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9460a05-c499-4362-ab97-fe7598eda7c6",
+    "data": [
+      {
+        "text": "quand est-ce que tu es prête",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea113b3e-81ae-4221-9851-6490642e6c04",
+    "data": [
+      {
+        "text": "est-ce que tu es prête",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9d019f5-3ac9-4783-95f9-1832d7168334",
+    "data": [
+      {
+        "text": "tu es prêt maintenant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fe4c4e0-9aa1-4500-8cb5-461487585493",
+    "data": [
+      {
+        "text": "t\u0027es prêt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3b458ff-c712-4d4b-8c19-f44c2dcc396d",
+    "data": [
+      {
+        "text": "prêt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cd209a7-2ce6-4bdb-ac41-572f9910ac37",
+    "data": [
+      {
+        "text": "t\u0027es prête",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24a77b9a-e945-448a-b6a4-8a1207107720",
+    "data": [
+      {
+        "text": "dis-moi si tu es prêt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1064e2ad-3b54-4c0b-b10c-1869ab3d1e27",
+    "data": [
+      {
+        "text": "signale-moi quand tu es prêt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

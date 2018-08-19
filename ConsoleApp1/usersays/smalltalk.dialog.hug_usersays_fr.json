@@ -1,0 +1,483 @@
+[
+  {
+    "id": "842c38a8-f9c1-4ebb-8335-013379468b22",
+    "data": [
+      {
+        "text": "veux-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " câlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c9d50c7-353d-404a-86ba-594324ce7937",
+    "data": [
+      {
+        "text": "peux-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " faire ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " calîn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4775b8d-d327-4ed1-8724-95b222786857",
+    "data": [
+      {
+        "text": "câlins",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f4d5576-39aa-4622-a518-8d4245bd1802",
+    "data": [
+      {
+        "text": "fais-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " calîn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b34c9a48-a292-4730-8a71-0e982cfa2bd9",
+    "data": [
+      {
+        "text": "câlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9cd4c46-3656-41ad-8ade-e04255ac5e6d",
+    "data": [
+      {
+        "text": "veux-tu que ",
+        "userDefined": false
+      },
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " te fasse ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " câlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "218b5233-449c-4e1b-a010-fd99423306c5",
+    "data": [
+      {
+        "text": "peux-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " faire ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " câlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5670800-74ed-47f6-98bc-079356ea820d",
+    "data": [
+      {
+        "text": "tu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " aimerais ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " câlin ",
+        "userDefined": false
+      },
+      {
+        "text": "toi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22f028e3-78db-43d9-89a2-bfcaf0f4f5e9",
+    "data": [
+      {
+        "text": "calîn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6102ac11-29db-4949-9f30-e51e01d5cd1c",
+    "data": [
+      {
+        "text": "j",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027aimerais ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " câlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "555b93cf-fd58-4796-9472-30489000c595",
+    "data": [
+      {
+        "text": "pourrais-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " faire ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " câlin ",
+        "userDefined": false
+      },
+      {
+        "text": "s",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "il",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " te plaît",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9de9d313-4832-4e21-9c18-592aa6e7d932",
+    "data": [
+      {
+        "text": "calîns",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1097cd6b-28a0-4f07-81aa-5d19e3a82c7d",
+    "data": [
+      {
+        "text": "j",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027aimerais ",
+        "userDefined": false
+      },
+      {
+        "text": "juste",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " câlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58dbf874-e092-4e2f-b767-a5c6281766b0",
+    "data": [
+      {
+        "text": "calins",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87919ceb-f6a0-4c51-9b8d-0d59c829724b",
+    "data": [
+      {
+        "text": "je veux",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " calîn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "137857c7-c62f-4554-980c-4681be17542f",
+    "data": [
+      {
+        "text": "fais-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " calin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe1067da-2372-44c4-9c5e-1d7754315446",
+    "data": [
+      {
+        "text": "fais-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " câlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ca8bbd6-6ee0-4247-92e4-f0f37189624f",
+    "data": [
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " câlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b56af823-5aca-49ce-b7a8-194bab601c58",
+    "data": [
+      {
+        "text": "je veux",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " câlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da5eaf25-ca1f-4960-b3de-92ebad8674ed",
+    "data": [
+      {
+        "text": "calin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f52a239-ff8d-4bed-8175-18549fa8cbad",
+    "data": [
+      {
+        "text": "je veux",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " calin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

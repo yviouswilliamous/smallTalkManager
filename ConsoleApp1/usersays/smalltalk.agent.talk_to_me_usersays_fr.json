@@ -1,0 +1,127 @@
+[
+  {
+    "id": "3659ec2a-e9e3-49a3-b00b-3fa6484a8101",
+    "data": [
+      {
+        "text": "pourrait-on parler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4485083b-6ecf-471a-98f4-b50e4e26a6f4",
+    "data": [
+      {
+        "text": "on doit se parler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53f4cc0c-3ed9-4b63-bca8-8d4b3c7820b9",
+    "data": [
+      {
+        "text": "on pourrait se parler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e7fd1a6-9b7a-4f0f-ae7c-a64320ee88fc",
+    "data": [
+      {
+        "text": "parle avec ",
+        "userDefined": false
+      },
+      {
+        "text": "moi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3680a40-ddac-4594-9f83-33d18cb1f5c5",
+    "data": [
+      {
+        "text": "il faut qu\u0027on se parle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e28a5e3a-b7e3-43d8-a664-fd798b4a2f4a",
+    "data": [
+      {
+        "text": "je voudrais te parler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be7e0d3a-a285-44c9-8e17-12d5b1578f7b",
+    "data": [
+      {
+        "text": "parle-moi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbc4e0e2-9656-4187-a92e-657c267238dd",
+    "data": [
+      {
+        "text": "peux-tu me parler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9b125fa-445d-4bb3-91df-a13cc9c560af",
+    "data": [
+      {
+        "text": "parle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9aacd5d0-3bec-4e25-b0ca-019447c77381",
+    "data": [
+      {
+        "text": "pourrions-nous nous parler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

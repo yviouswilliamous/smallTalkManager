@@ -1,0 +1,441 @@
+[
+  {
+    "id": "8aafa001-af5a-4405-acda-a6c15d0a65cb",
+    "data": [
+      {
+        "text": "es-tu occupée ",
+        "userDefined": false
+      },
+      {
+        "text": "maintenant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f84102b5-c669-4694-b827-3bc2a146ee54",
+    "data": [
+      {
+        "text": "tu es en ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " bosser là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15e2ee1c-47bf-43fd-965c-d0f1306f3f4c",
+    "data": [
+      {
+        "text": "tu es en ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " bosser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d6134e3-2561-4b42-9720-69b14870e49c",
+    "data": [
+      {
+        "text": "as-tu beaucoup à faire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9a5b9bf-795e-4356-aee1-6d34f95cab18",
+    "data": [
+      {
+        "text": "es-tu occupé en ",
+        "userDefined": false
+      },
+      {
+        "text": "ce",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " moment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d05c9244-9518-4e68-9301-d65578f18b3f",
+    "data": [
+      {
+        "text": "occupée ou ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "toi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cb650cf-e1d6-4d7b-8118-068b21575dcc",
+    "data": [
+      {
+        "text": "est-ce que tu es occupée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57169a49-7d17-474d-a599-9692879833eb",
+    "data": [
+      {
+        "text": "es-tu en ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " travailler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cab45d9-e168-46f2-b882-4615c08d6a86",
+    "data": [
+      {
+        "text": "es-tu occupée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f9173cea-ada4-4a7c-9654-756d6678148e",
+    "data": [
+      {
+        "text": "es-tu occupé ",
+        "userDefined": false
+      },
+      {
+        "text": "maintenant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64641427-7bf9-426c-a3b5-55f4e39eda71",
+    "data": [
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027es occupé ou ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fc632b8-dd9a-4c91-99dd-aabef57c4061",
+    "data": [
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027es occupé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9a9a595-f62d-437c-bfd7-4597032803b8",
+    "data": [
+      {
+        "text": "occupé ou ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5996e2ee-8323-4101-ab2c-bcd3d89d5499",
+    "data": [
+      {
+        "text": "es-tu occupé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e3ebbcf6-0a56-4b60-8b93-c32df74023f2",
+    "data": [
+      {
+        "text": "tu es occupée ",
+        "userDefined": false
+      },
+      {
+        "text": "maintenant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d35cc545-a6da-411e-b7e1-52a8d83345db",
+    "data": [
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027es occupée là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91f6b61f-f126-4f79-b343-404f0465fcf0",
+    "data": [
+      {
+        "text": "tu es occupée ou ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f844994-3a48-49a6-9abf-e68ac571ae47",
+    "data": [
+      {
+        "text": "es-tu occupe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "32062e05-13ae-405b-a5ec-14541855d400",
+    "data": [
+      {
+        "text": "es-tu en ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " bosser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41bf5cbe-9d5f-4fef-a4d5-67ecbd995849",
+    "data": [
+      {
+        "text": "tu es occupée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "681ae9c1-46ad-4180-a081-7a91be44908f",
+    "data": [
+      {
+        "text": "tu es en ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " travailler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b3823b7-ec32-47ee-8fd6-6d67afb06627",
+    "data": [
+      {
+        "text": "tu es occupé ou ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92d55249-502c-4ae9-955b-833b4255020c",
+    "data": [
+      {
+        "text": "tu es occupé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

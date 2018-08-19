@@ -1,0 +1,210 @@
+[
+  {
+    "id": "aa0704e0-9632-4e5a-b9d5-8f32ce262ba8",
+    "data": [
+      {
+        "text": "quelle est la date de ton anniv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58e57df5-5ca8-488b-b400-7e380e07f6a5",
+    "data": [
+      {
+        "text": "quelle est la date de ta naissance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e9f4d31d-6fb0-4e97-bc8b-dcdd7f1445ef",
+    "data": [
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " anniversaire c\u0027est quand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1a7d423-de2a-4a54-8627-82840c6816f8",
+    "data": [
+      {
+        "text": "quand est-ce que tu fêtes ",
+        "userDefined": false
+      },
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " anniversaire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d183b1d0-0d07-4182-b60a-cd7b5b8b7e17",
+    "data": [
+      {
+        "text": "la date de ",
+        "userDefined": false
+      },
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " anniv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22c1774e-99e5-4d84-80ff-cd2ad5699736",
+    "data": [
+      {
+        "text": "la date de ta naissance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e969cbf8-8b02-4e27-aaba-8ca8efebd87c",
+    "data": [
+      {
+        "text": "il est quand ",
+        "userDefined": false
+      },
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " anniversaire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0ec9464-89a1-47e2-ab1d-89dc94ece6de",
+    "data": [
+      {
+        "text": "dis-moi la date de ",
+        "userDefined": false
+      },
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " anniversaire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff61da2c-ba01-4cbb-b8a5-d7197054f193",
+    "data": [
+      {
+        "text": "с\u0027est quand ",
+        "userDefined": false
+      },
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " anniversaire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81966ec0-38f2-43f3-9a88-2b2c1974add5",
+    "data": [
+      {
+        "text": "quelle est ta date de naissance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6393395e-e83f-4bd4-894f-ba30e5298cf3",
+    "data": [
+      {
+        "text": "donne-moi ta date de naissance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86aee822-21b1-4946-9f65-de5fab604cc6",
+    "data": [
+      {
+        "text": "quand ",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ton ",
+        "userDefined": false
+      },
+      {
+        "text": "anniversaire",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "0ca22cbc-5418-40b4-8753-197045c8008e",
+    "data": [
+      {
+        "text": "travail",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bien fait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6ca38eb-c5f0-468d-b9b8-7e3f431a90a7",
+    "data": [
+      {
+        "text": "c\u0027est bien",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " fait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95ec7e0b-373c-416e-8142-84189f73e057",
+    "data": [
+      {
+        "text": "ceci est bien fait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "338dc364-52b7-41e0-8c11-8be2bb79ca05",
+    "data": [
+      {
+        "text": "bravo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fc01956-50d7-449d-8f26-cc84d99465c2",
+    "data": [
+      {
+        "text": "ceci est bien joué",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9bb3623-235f-4b1b-b21c-3264c63f079e",
+    "data": [
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "grand",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bravo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b6e8f26-87d4-4d3b-84b7-9b9649f778d1",
+    "data": [
+      {
+        "text": "bien joué",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5233b9aa-e035-4f1d-b788-6fc2bb149fb4",
+    "data": [
+      {
+        "text": "cela est bien joué",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bd5afd6-bb10-4b0a-86a7-e5cb327f9655",
+    "data": [
+      {
+        "text": "c\u0027est bien",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " joué",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc6779dc-384d-4d49-a61f-b337a4603b9b",
+    "data": [
+      {
+        "text": "cela est bien fait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13c837ea-239c-4c48-ac70-ae2bbc17e4e7",
+    "data": [
+      {
+        "text": "chapeau",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7149d171-6cc7-40b7-bcc9-74d4f8ec3ace",
+    "data": [
+      {
+        "text": "bien fait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

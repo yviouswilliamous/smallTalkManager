@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6d30ebd0-cc67-4022-9517-150bd33c7209",
+    "data": [
+      {
+        "text": "peux-tu être intelligent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a198470-b230-4125-9bd9-1fb94ba57f97",
+    "data": [
+      {
+        "text": "sois intelligent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "858b3418-9e15-4026-a78e-99b9ce0b382f",
+    "data": [
+      {
+        "text": "sois itelligente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

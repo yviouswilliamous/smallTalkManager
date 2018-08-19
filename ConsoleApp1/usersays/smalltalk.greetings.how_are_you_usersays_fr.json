@@ -1,0 +1,458 @@
+[
+  {
+    "id": "238d51ad-2408-4593-a65e-2f3800a2fdf9",
+    "data": [
+      {
+        "text": "ça va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "0e85fc85-75c8-4cbf-856c-addedeb4b7c8",
+    "data": [
+      {
+        "text": "comment allez-vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eedcf95c-3acc-44a8-9570-862140194452",
+    "data": [
+      {
+        "text": "salut ça va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "b41be8e6-3b06-48da-96f4-99bf510db799",
+    "data": [
+      {
+        "text": "vous allez bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7ffd84b-1510-4c31-88a8-6f055b9f28c3",
+    "data": [
+      {
+        "text": "tu vas bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ad472be-f87f-4bdb-a541-476eba63c16b",
+    "data": [
+      {
+        "text": "comment ça va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "80e53f22-0066-4305-880a-153b1d001b28",
+    "data": [
+      {
+        "text": "comment vas-tu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20a2497a-ebb6-4277-ab05-5849eaf0ea5b",
+    "data": [
+      {
+        "text": "comment ça baigne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f73497be-1461-4efe-bc39-f6e5b5577ee4",
+    "data": [
+      {
+        "text": "ça roule ma poule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5448e8ee-e8bd-4359-aa3f-1460eeecedd6",
+    "data": [
+      {
+        "text": "ça marche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecb5a19e-e61e-4dde-85e4-2b8421a8526a",
+    "data": [
+      {
+        "text": "ça va mon ami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "479c134c-ff36-4e5f-ad70-f53e90d47887",
+    "data": [
+      {
+        "text": "ça roule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fea220d5-fb3f-44e2-8413-605b1640c7e9",
+    "data": [
+      {
+        "text": "sa baigne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "265bc9be-5a79-42f4-b283-2ba5a5df6035",
+    "data": [
+      {
+        "text": "tu vas bien toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "447144d4-b857-4bfd-a834-89f747feb00f",
+    "data": [
+      {
+        "text": "sava",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4635669-e9f9-47cb-bda4-980fc48859cc",
+    "data": [
+      {
+        "text": "sa va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d6bf878-bf6c-4921-b29b-ebb9f5c9cf87",
+    "data": [
+      {
+        "text": "comment te portes tu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6afd8dc-6d43-4f14-83cb-1201c02d37a5",
+    "data": [
+      {
+        "text": "comment ça marche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "56a6c655-9d81-4c52-b82b-ff076b723401",
+    "data": [
+      {
+        "text": "ca marche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f0fc28e-15ab-40dd-9189-ed11d6c21c25",
+    "data": [
+      {
+        "text": "ça baigne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e02b17df-487a-42e3-815b-42f1c625c518",
+    "data": [
+      {
+        "text": "ca baigne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "418c8878-c3cc-4fcb-81f8-bf825e3724b5",
+    "data": [
+      {
+        "text": "vas tu bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d4e3606-8b36-4838-88bd-c18655b709a2",
+    "data": [
+      {
+        "text": "comment vous portez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "644b2e59-0c4c-43ca-a427-a321464a5b3f",
+    "data": [
+      {
+        "text": "comment ca marche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88308383-bc25-4d89-bbd6-f5bbbeca4c81",
+    "data": [
+      {
+        "text": "sa roule ma poule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "404f893c-e095-4b03-807b-71583e11c6f1",
+    "data": [
+      {
+        "text": "sa roule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91666506-636b-458a-af26-bc9cfd689f03",
+    "data": [
+      {
+        "text": "comment ca roule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca20e2b3-f0a8-43e8-8170-7fab19ab1723",
+    "data": [
+      {
+        "text": "ca roule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6998f96-b3bb-4798-a5f0-e8f2e9659e79",
+    "data": [
+      {
+        "text": "comment ca va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5798045c-75b6-4adf-9382-0d05c4914120",
+    "data": [
+      {
+        "text": "comment te porte tu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25b48460-5383-4ed1-bc6d-5da76e775d1c",
+    "data": [
+      {
+        "text": "comment ca baigne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb7c7b39-da61-4d1b-ac32-8cb8ccfe1645",
+    "data": [
+      {
+        "text": "dis-moi tu vas bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a782b733-36de-4ed6-97b7-726d3821ef32",
+    "data": [
+      {
+        "text": "ça va ou pas finalement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "62011ccb-c9b6-4690-a55b-16eb046ca585",
+    "data": [
+      {
+        "text": "comment ça roule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1786502-1f9b-44f5-8b9b-cba80d760110",
+    "data": [
+      {
+        "text": "allez-vous bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68a651bb-a900-4146-8cac-73a0533689cd",
+    "data": [
+      {
+        "text": "ca roule ma poule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e586208-209d-434a-a7f1-9af797987d97",
+    "data": [
+      {
+        "text": "ca va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7aef8621-48de-4b42-9cea-62a9c530a3dc",
+    "data": [
+      {
+        "text": "sa marche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

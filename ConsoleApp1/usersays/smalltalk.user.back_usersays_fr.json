@@ -1,0 +1,86 @@
+[
+  {
+    "id": "09290908-2b1a-4bb1-a648-f372cd50bfc1",
+    "data": [
+      {
+        "text": "de retour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54b7ef2b-b64e-4ec8-a2c8-5cfe988af07e",
+    "data": [
+      {
+        "text": "je suis revenue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b1bb1b3-feec-4db1-9458-c1a389039760",
+    "data": [
+      {
+        "text": "je suis de retout maintenant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e904fddd-973e-4511-9dee-cfcba9147e50",
+    "data": [
+      {
+        "text": "je suis de retour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dc41aeb-d869-40fb-a93f-3a19a13de60c",
+    "data": [
+      {
+        "text": "revenue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60760064-2288-4d52-b86a-cc4ee5f2dda1",
+    "data": [
+      {
+        "text": "revenu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfc74bf7-decd-46e6-b95e-a3caebf62cfa",
+    "data": [
+      {
+        "text": "je suis revenu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

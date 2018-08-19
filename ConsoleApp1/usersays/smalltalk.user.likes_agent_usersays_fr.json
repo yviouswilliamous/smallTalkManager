@@ -1,0 +1,220 @@
+[
+  {
+    "id": "52c51ec1-c608-410d-a251-6bd893dc2b1d",
+    "data": [
+      {
+        "text": "tu me plais bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04388a77-17d0-41c6-a579-86ae536653ce",
+    "data": [
+      {
+        "text": "tu me plais beaucoup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afe022f0-b024-4cc6-b5d5-1ecdf604eadd",
+    "data": [
+      {
+        "text": "moi aussi tu me plais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6d850aa-25de-4e59-b0a0-d7082c69b657",
+    "data": [
+      {
+        "text": "tu me plais bien aussi toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "587b242e-042a-4490-864b-6a22328c86fb",
+    "data": [
+      {
+        "text": "tu me plais aussi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa175c09-a3c0-4381-b96b-5c446edf960f",
+    "data": [
+      {
+        "text": "je t\u0027aime bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e7fe618-904d-444d-afd1-9640da52329c",
+    "data": [
+      {
+        "text": "toi aussi tu me plais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ce9b5ba-48df-4700-86f2-65058571e3d0",
+    "data": [
+      {
+        "text": "je t\u0027aime",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bien",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " aussi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dda5cf6e-2347-48ce-9915-8afbd714ef17",
+    "data": [
+      {
+        "text": "je t\u0027aime",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bien",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " également",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2777487d-cdad-4510-b4a3-8996640b5816",
+    "data": [
+      {
+        "text": "je t\u0027aime",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bien",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "moi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " aussi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b049f03-8b6a-430a-85cf-565218953a6d",
+    "data": [
+      {
+        "text": "toi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " aussi ",
+        "userDefined": false
+      },
+      {
+        "text": "tu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " plaîs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4260322-53f1-4bfa-9bf4-0351e3100568",
+    "data": [
+      {
+        "text": "tu me plaît",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

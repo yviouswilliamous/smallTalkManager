@@ -1,0 +1,253 @@
+[
+  {
+    "id": "b309ad3f-763d-477c-8ec8-8bb935172727",
+    "data": [
+      {
+        "text": "es-tu folle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "342d10fc-bedf-49d9-92bf-d7c6882039e7",
+    "data": [
+      {
+        "text": "t\u0027es folle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9188e9c1-e0e0-468e-a685-ae9dfdf642b6",
+    "data": [
+      {
+        "text": "tu es tarée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "042b2b73-0741-4a40-8893-d59844b4604d",
+    "data": [
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027es trop ",
+        "userDefined": false
+      },
+      {
+        "text": "fou",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c748557f-244e-4933-9888-a9a64fe90799",
+    "data": [
+      {
+        "text": "tu es trop folle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a67b829-336d-43a7-b6cb-c07db8fd7df6",
+    "data": [
+      {
+        "text": "tu es ",
+        "userDefined": false
+      },
+      {
+        "text": "fou",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "949103a7-d41d-4e9d-a903-f61eaa6cca4f",
+    "data": [
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027es taré",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2329aeca-1a47-48ac-8f0c-89c4ba468ac1",
+    "data": [
+      {
+        "text": "trop ",
+        "userDefined": false
+      },
+      {
+        "text": "fou toi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f58c3eb-1888-4ded-9d85-6cb1b9154314",
+    "data": [
+      {
+        "text": "tu es ",
+        "userDefined": false
+      },
+      {
+        "text": "dingue",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dc0d229-07c4-44c8-8f8e-7b49ab280736",
+    "data": [
+      {
+        "text": "tu es folle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b517911-bf1c-4b80-9313-07879d8d526a",
+    "data": [
+      {
+        "text": "es-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "fou",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42c32f34-2e0f-44ff-bd3f-a5538969f2e1",
+    "data": [
+      {
+        "text": "tu es taré",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6900284-5d14-4629-8f5a-08a1e6b5557f",
+    "data": [
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027es tarée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee8da0ed-90a3-451d-a685-137b9ad4dceb",
+    "data": [
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027es ",
+        "userDefined": false
+      },
+      {
+        "text": "fou",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ou quoi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cee22713-952b-48d4-a68e-9eaaf7404b43",
+    "data": [
+      {
+        "text": "tu es cinglée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41ae0ae5-1bbf-4ac3-9488-c4660c9baa32",
+    "data": [
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027es cinglé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,409 @@
+[
+  {
+    "id": "cb86c479-c992-45a0-becd-114aafc3891f",
+    "data": [
+      {
+        "text": "parlons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdc31b9c-f2ed-4a60-99d5-9e598f4f9771",
+    "data": [
+      {
+        "text": "et",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "si",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " discutait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e0fef08-eca0-4a8e-af19-c763740594f4",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " voudrais causer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad79a589-f00a-4961-9e63-8da6d174e614",
+    "data": [
+      {
+        "text": "j",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "ai",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " envie ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " parler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2553f6f3-33c6-4683-910c-3c46dbc7f845",
+    "data": [
+      {
+        "text": "veux-tu discuter ",
+        "userDefined": false
+      },
+      {
+        "text": "maintenant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "664e25ec-b95f-4ae3-89af-13658093fc94",
+    "data": [
+      {
+        "text": "puis-je parler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e924f02-44e1-4295-9b8e-b1b1c0865c79",
+    "data": [
+      {
+        "text": "je veux",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " parler ",
+        "userDefined": false
+      },
+      {
+        "text": "avec toi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11e20df1-6691-4945-b1f5-dc7f59bb333c",
+    "data": [
+      {
+        "text": "j\u0027aimerais",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " te parler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c42afe7-f11f-431e-b580-bce422fa23f2",
+    "data": [
+      {
+        "text": "je veux",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " parler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4823442a-279c-4ff3-9692-52e367b1fe42",
+    "data": [
+      {
+        "text": "je veux",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " te parler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "402532fc-2823-4330-a9ca-4c1e12f9096f",
+    "data": [
+      {
+        "text": "j",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027aimerais bavarder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65c35abf-8c5f-4699-9f94-e68cf3feff21",
+    "data": [
+      {
+        "text": "j",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027aimerais ",
+        "userDefined": false
+      },
+      {
+        "text": "qu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " parle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "980198fe-f081-4c54-93e7-eb57941d035a",
+    "data": [
+      {
+        "text": "peut-on ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " parler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cbbaa52-efce-447a-b6f2-16f4ca1c56a4",
+    "data": [
+      {
+        "text": "peut-on discuter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b172718-9aa8-4ca2-b336-2332bc2bc5b2",
+    "data": [
+      {
+        "text": "voudrais-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "qu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " parle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81f47d5e-1a80-45da-9d35-ff4f6cdbaad4",
+    "data": [
+      {
+        "text": "pourrait-on causer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d52f58b1-b8ab-4f92-982f-9f11f201bc81",
+    "data": [
+      {
+        "text": "parlons ",
+        "userDefined": false
+      },
+      {
+        "text": "ensemble",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4e580ef-e321-4719-99e6-d5260f0cc457",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " voudrais causer ",
+        "userDefined": false
+      },
+      {
+        "text": "avec toi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed56b38b-ed2a-4cb0-b701-06ebf56f711d",
+    "data": [
+      {
+        "text": "j\u0027aimerais",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " discuter ",
+        "userDefined": false
+      },
+      {
+        "text": "avec toi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

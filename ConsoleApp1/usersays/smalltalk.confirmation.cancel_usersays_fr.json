@@ -1,0 +1,326 @@
+[
+  {
+    "id": "0800aa88-08e9-4555-b5fc-a7d4d10ac682",
+    "data": [
+      {
+        "text": "quitte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63219507-343c-40b2-b811-465ee84b1f60",
+    "data": [
+      {
+        "text": "stoppe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "799acbe2-e694-416e-8731-edf67407283e",
+    "data": [
+      {
+        "text": "pas maintenant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbd7c5b1-c0b9-4a9f-a3ae-313d96d4ab78",
+    "data": [
+      {
+        "text": "abandonne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0629628a-521d-420a-bdd6-bfcb47394fc8",
+    "data": [
+      {
+        "text": "arrête-le",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "23f5a01c-f6d8-4151-9f37-e81a23bb5bbe",
+    "data": [
+      {
+        "text": "annuler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f6b93d53-c557-4a9f-ab0f-2de610971ff4",
+    "data": [
+      {
+        "text": "refuse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59bc45cb-8327-42f3-9ec8-9b3152833e17",
+    "data": [
+      {
+        "text": "interrompre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c13d5b37-8610-404c-9409-b8d1f9d36c03",
+    "data": [
+      {
+        "text": "quitter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3902e885-a5fb-4be1-8056-dd5111ea30ff",
+    "data": [
+      {
+        "text": "annule-le",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9e4ff32-ae89-4b9d-960b-5f848c31641d",
+    "data": [
+      {
+        "text": "peux-tu annuler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b543de49-aae3-4f08-a689-74a368c33bca",
+    "data": [
+      {
+        "text": "arrête",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56559d73-abf7-4707-9315-500ddac68f65",
+    "data": [
+      {
+        "text": "refuser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "788b6094-1eb0-446e-9778-ea8b0524d661",
+    "data": [
+      {
+        "text": "omettre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d7fce2c-970d-4a36-b535-8f10683ba69a",
+    "data": [
+      {
+        "text": "plus tard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cdd19253-2723-4540-858c-298ff801c7bf",
+    "data": [
+      {
+        "text": "arrêté",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c5c5631-d1a9-46c7-b530-b24c68acda40",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c03e3af7-3d3b-428b-80f6-0e860da83c83",
+    "data": [
+      {
+        "text": "laisse tomber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e14d08f-c676-455f-b30c-2e2f67018e13",
+    "data": [
+      {
+        "text": "annule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e50de841-a4ff-4444-b44d-c519dc454916",
+    "data": [
+      {
+        "text": "abandonner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a924e9c-37f4-461f-9562-2c9104742375",
+    "data": [
+      {
+        "text": "annuler tout ça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9b0315e-bfe9-480a-860e-f20b71b2f54e",
+    "data": [
+      {
+        "text": "stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c682f8c7-cd6a-4953-9c59-d46a46e5db6e",
+    "data": [
+      {
+        "text": "arrêter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b309919d-9440-4e4e-bea3-c2af29ddc6c7",
+    "data": [
+      {
+        "text": "stopper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "810bc8e7-617a-4b1a-b7c8-6eb06c096e80",
+    "data": [
+      {
+        "text": "laisser tomber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd51cc29-651a-40a8-9fc8-a245e28ee32d",
+    "data": [
+      {
+        "text": "annuler tout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4878f999-6bf8-40ae-ab29-25a4489a3400",
+    "data": [
+      {
+        "text": "annuler tout cela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

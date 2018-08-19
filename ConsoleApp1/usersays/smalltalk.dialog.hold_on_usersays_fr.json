@@ -1,0 +1,225 @@
+[
+  {
+    "id": "fe620d73-a3cc-4a03-9d3e-519e9b637774",
+    "data": [
+      {
+        "text": "oh",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " attends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e9d522e-17c9-488b-9204-ebc696a0d2aa",
+    "data": [
+      {
+        "text": "attends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3460ef01-ad9d-43c6-a995-8de00229f6ce",
+    "data": [
+      {
+        "text": "attends ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " peu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aebd2940-ba92-41db-8d7f-1975c0ef89db",
+    "data": [
+      {
+        "text": "il faut que tu ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027attendes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83a96688-a93b-41fb-98f7-04e6afe5b8e3",
+    "data": [
+      {
+        "text": "peux-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027attendre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a710548-0d56-4c6e-947d-5c7ea07a5482",
+    "data": [
+      {
+        "text": "atteeends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42e68095-359f-4fcc-bf88-346324ed35b6",
+    "data": [
+      {
+        "text": "s",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "il",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " te plaît attends-moi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "923dc910-f02c-4d6d-824d-b95ae4224ac6",
+    "data": [
+      {
+        "text": "peux-tu attendre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47207823-9405-47be-b945-520981209540",
+    "data": [
+      {
+        "text": "attends ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "petit",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " peu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63d860e4-be26-4d54-af1f-ff570b02a92b",
+    "data": [
+      {
+        "text": "pourrais-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027attendre ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "petit",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " peu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "471fb768-3761-4d52-931d-9f6ea51e2ae4",
+    "data": [
+      {
+        "text": "attends-moi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "7baf3377-acb5-4641-bdb0-0a525005d746",
+    "data": [
+      {
+        "text": "je n\u0027ai personne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36071226-0e74-46e7-94f6-22e4bc4614d7",
+    "data": [
+      {
+        "text": "je suis si seul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "087c7ebc-8fc5-4c4d-a533-7d29ee79fb7a",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sens",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " tellement ",
+        "userDefined": false
+      },
+      {
+        "text": "seule",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d091298a-5696-4ad9-b958-ad1974504460",
+    "data": [
+      {
+        "text": "je suis tout seul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "307a5703-4144-47aa-ab70-8251177a36d7",
+    "data": [
+      {
+        "text": "je suis seule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3040f17-38d3-4f6e-b8d7-7d13ad0aefa2",
+    "data": [
+      {
+        "text": "je me sens seule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d19683d-ef08-4349-b360-7488f32c1946",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sens",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " trop ",
+        "userDefined": false
+      },
+      {
+        "text": "seule",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1701e31-591e-4117-b0f6-3d60f59be248",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis tellement ",
+        "userDefined": false
+      },
+      {
+        "text": "seule",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84456a9d-6a76-4306-8985-20b9a509aa22",
+    "data": [
+      {
+        "text": "je suis seul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "681c09ae-bb4e-406f-8157-89be6b8c63cd",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis tellement ",
+        "userDefined": false
+      },
+      {
+        "text": "seul",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4140cd4-2ad6-4f38-9fd8-b4443379fd2f",
+    "data": [
+      {
+        "text": "je me sens seul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

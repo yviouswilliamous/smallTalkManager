@@ -1,0 +1,239 @@
+[
+  {
+    "id": "bc6e32a1-bc4a-4a71-ad8c-8d93b6fab60a",
+    "data": [
+      {
+        "text": "tu es fatigant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1157267-0e53-4b16-8793-f42c604dcf8e",
+    "data": [
+      {
+        "text": "tu es ennuyante.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf2ab248-efe5-459a-949f-7448bf407b95",
+    "data": [
+      {
+        "text": "tu ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027embêtes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7c7f5f79-acb7-429d-ad9c-0782143833b6",
+    "data": [
+      {
+        "text": "tu es agaçante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d88bdebc-bf75-401b-b082-0dfefef81e15",
+    "data": [
+      {
+        "text": "tu ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " fatigues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cc242cd-458f-471b-b6b1-b553bf464bab",
+    "data": [
+      {
+        "text": "tu ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " fatigues trop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "794256a5-21e6-489f-9190-ff27658a84c3",
+    "data": [
+      {
+        "text": "tu es embêtant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57822a11-0f70-402c-80e5-fce45df4d200",
+    "data": [
+      {
+        "text": "tu ",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " fatiguante ",
+        "userDefined": false
+      },
+      {
+        "text": "toi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eedac922-978d-49d8-8e32-5207aab7cfec",
+    "data": [
+      {
+        "text": "tu es fatigante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7f03ecb6-bce7-4c09-8ac4-4fd099965909",
+    "data": [
+      {
+        "text": "tu ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " fatigues énormement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "85a67ef7-7673-415c-a3c0-83df46a729b8",
+    "data": [
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027es trop agaçante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bec31fae-c387-42cc-8c17-d8a503c05704",
+    "data": [
+      {
+        "text": "tu es agaçant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3604dae3-d60f-4762-98e4-7dedc1315d5c",
+    "data": [
+      {
+        "text": "achalante ",
+        "userDefined": false
+      },
+      {
+        "text": "toi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "54b7ba9e-58e7-4aaa-aa73-dd694501cb1a",
+    "data": [
+      {
+        "text": "tu ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027agaces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

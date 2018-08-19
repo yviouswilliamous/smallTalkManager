@@ -1,0 +1,211 @@
+[
+  {
+    "id": "2b58eef0-9383-4ce1-b53e-db4a1a702d6b",
+    "data": [
+      {
+        "text": "tu me manques",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " beaucoup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "982411bc-a1ae-4c2b-8fd3-5d1037111706",
+    "data": [
+      {
+        "text": "tu me manques",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " déjà",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdbf070a-1af6-4ee5-aac3-c04ad0c78f2a",
+    "data": [
+      {
+        "text": "tu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "as",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "manqué",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7aa47815-8b5c-4e89-9a9c-ad73a7552a69",
+    "data": [
+      {
+        "text": "tu me manques",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " énormement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6beea8cd-15f0-480b-8de5-0be88d476c2e",
+    "data": [
+      {
+        "text": "tu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " manquais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12a7058d-6317-43a3-a047-a3f080d7453b",
+    "data": [
+      {
+        "text": "tu me manques",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " vraiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ca5f1c7-b71f-4deb-9851-dcee08e628e2",
+    "data": [
+      {
+        "text": "je m\u0027ennuie sans toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85d4ad8e-61b7-4e38-9b15-645de1ae81d9",
+    "data": [
+      {
+        "text": "qu\u0027est-ce que tu me manques",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f4f112b-8694-46b3-921e-ef4bf5bece5b",
+    "data": [
+      {
+        "text": "je m\u0027ennuie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " trop ",
+        "userDefined": false
+      },
+      {
+        "text": "sans toi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4ef5091-390e-4d8e-b01b-5196eb821b49",
+    "data": [
+      {
+        "text": "tu me manques",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f14ec86a-fb11-4bf4-b5a0-28c842d26e8e",
+    "data": [
+      {
+        "text": "tu me manques",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " trop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

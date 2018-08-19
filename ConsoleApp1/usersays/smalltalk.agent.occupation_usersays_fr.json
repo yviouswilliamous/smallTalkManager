@@ -1,0 +1,213 @@
+[
+  {
+    "id": "c6327d08-5b5e-4f7a-b76a-eab494d822e8",
+    "data": [
+      {
+        "text": "où ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " trouve ",
+        "userDefined": false
+      },
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bureau",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f21203c7-def9-4e5f-89b5-a0fb7dff7bf1",
+    "data": [
+      {
+        "text": "où ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " trouve ",
+        "userDefined": false
+      },
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "boulot",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8d406dd-4aa4-4261-98f7-9471c8d11596",
+    "data": [
+      {
+        "text": "en quoi est-ce que ",
+        "userDefined": false
+      },
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " travail consiste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f12d175-68fb-46b7-91e2-30ea22cc5924",
+    "data": [
+      {
+        "text": "où travailles-tu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "078b800c-b9fd-4146-81a1-cf6149f10d7e",
+    "data": [
+      {
+        "text": "quel ",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ton job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7dbf5de3-dad5-4102-8b7c-a76d0873ed8e",
+    "data": [
+      {
+        "text": "où tu travailles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbe55bd4-01eb-4124-9357-98406fdbcef5",
+    "data": [
+      {
+        "text": "où ",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "l",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027endroit où tu travailles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf60abcf-d762-44e6-acd6-9c496d29a287",
+    "data": [
+      {
+        "text": "dans quoi travailles-tu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05d6bbfc-18a8-4c23-9a45-927d1173f50a",
+    "data": [
+      {
+        "text": "c\u0027est quoi ",
+        "userDefined": false
+      },
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " travail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "838316dd-447c-4f10-a12a-3967db522f7f",
+    "data": [
+      {
+        "text": "où est-est que tu travailles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

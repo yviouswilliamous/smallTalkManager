@@ -1,0 +1,189 @@
+[
+  {
+    "id": "8ec5b086-40fb-497a-985c-9922d2a3cf8c",
+    "data": [
+      {
+        "text": "vas-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027épouser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82a9708c-1be5-478b-81a0-da49a843c5b6",
+    "data": [
+      {
+        "text": "je veux t\u0027épouser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96781b28-9b31-4058-8f36-e87150843d13",
+    "data": [
+      {
+        "text": "deviens ma femme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afe8703d-bc01-466d-b0f5-764b8f02757c",
+    "data": [
+      {
+        "text": "marie-moi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4566e798-920c-41ec-a981-d405d066f1c1",
+    "data": [
+      {
+        "text": "marie-toi ",
+        "userDefined": false
+      },
+      {
+        "text": "avec",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "moi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "810d4128-97e3-41a9-b171-58eef3cdbd1a",
+    "data": [
+      {
+        "text": "sois ",
+        "userDefined": false
+      },
+      {
+        "text": "mon",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " mari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e2d21f2-69ac-4b12-bf4a-29822e04ace9",
+    "data": [
+      {
+        "text": "est-ce que tu vas m\u0027épouser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee34e174-712a-4e16-99b5-b8034a1be7d7",
+    "data": [
+      {
+        "text": "sois ",
+        "userDefined": false
+      },
+      {
+        "text": "ma",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "femme",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c63b0c0-bb92-4ff7-84b2-d42ae8097c29",
+    "data": [
+      {
+        "text": "seras-tu ma femme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48912744-40d7-4fdb-9793-611d90be341e",
+    "data": [
+      {
+        "text": "seras-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "mon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1e1ee4b-18aa-4f33-b45c-335edbca49e6",
+    "data": [
+      {
+        "text": "épouse-moi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

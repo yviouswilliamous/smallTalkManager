@@ -1,0 +1,314 @@
+[
+  {
+    "id": "38f80243-fde9-46b4-b3e3-fdf829d7105b",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis ",
+        "userDefined": false
+      },
+      {
+        "text": "super",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " fâché",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb556859-28c3-4d88-981e-148636fc0961",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis trop fâché",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb059707-7a3a-4c27-adce-f031c2746d0e",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis fâchée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a2fe787-7f99-490d-b22b-8417b29a0092",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis énervé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4741ee1d-a3b2-448a-a976-95f557a8b8cb",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis ",
+        "userDefined": false
+      },
+      {
+        "text": "super",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " fâchée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33b3d287-f9b8-41c4-914f-4d07ea5e6981",
+    "data": [
+      {
+        "text": "fâchée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44a52fc6-4def-4d15-97f0-8fc9b9e15334",
+    "data": [
+      {
+        "text": "fâchés",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2b6b0b3-1f4e-4dc9-a67c-7b1700c19003",
+    "data": [
+      {
+        "text": "fachée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b40fcee8-0a30-491e-8c51-f897ca26de27",
+    "data": [
+      {
+        "text": "je suis furieux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d980711e-02f1-4c5a-aec8-1f131b686be2",
+    "data": [
+      {
+        "text": "faché",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3649e38e-7852-4922-8433-d596013f7261",
+    "data": [
+      {
+        "text": "ça me rend furieux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a3cdc7d-c76a-4404-92f8-9b5188070e58",
+    "data": [
+      {
+        "text": "fâchées",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "563496d6-048a-4cb5-9e02-d7829ca37f1e",
+    "data": [
+      {
+        "text": "ça",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027énerve",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08b992f8-809c-4ab5-b916-a4c94ea44ba1",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis énervée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "063ab03c-3cfe-4ff1-a7bc-4dbbf6d64510",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis trop fâchée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6a1b771-ccd1-4db9-bdbe-81a07f346577",
+    "data": [
+      {
+        "text": "je suis en colère",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3eaf28b2-e756-4c46-a7bc-7f2b50583565",
+    "data": [
+      {
+        "text": "fâché",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26a88334-5c31-452c-988a-a47b6392bcb6",
+    "data": [
+      {
+        "text": "je suis furieuse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61625f62-6445-4100-87ee-840aecb71073",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis fâché",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "913a2342-a2b9-4df4-a7ae-ccb33ea4edc5",
+    "data": [
+      {
+        "text": "ça me met en colère",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

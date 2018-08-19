@@ -1,0 +1,146 @@
+[
+  {
+    "id": "961ce82b-6e81-4eae-99a7-0184f8ae5a8f",
+    "data": [
+      {
+        "text": "qu\u0027est-ce qu\u0027il y a de ",
+        "userDefined": false
+      },
+      {
+        "text": "neuf",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a66c73e-33f7-4779-bf36-c2ef121608c1",
+    "data": [
+      {
+        "text": "quoi de neuf toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5d2b26b9-b57f-434a-b0ca-802e92a9419b",
+    "data": [
+      {
+        "text": "quoi de nouveau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32d73c6e-506d-4244-afd3-ab7dee00dd2e",
+    "data": [
+      {
+        "text": "salut",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " quoi ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "neuf",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "toi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4cc67a8-8f59-4b1e-9ff5-1d7f05059c0e",
+    "data": [
+      {
+        "text": "quoi de ",
+        "userDefined": false
+      },
+      {
+        "text": "neuf",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee5dcf31-941b-4d30-89c4-6bd1a935fd97",
+    "data": [
+      {
+        "text": "qu\u0027est-ce qu\u0027il y a de ",
+        "userDefined": false
+      },
+      {
+        "text": "beau",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e9e634a-1dd4-44f0-be91-be8afbfeccfb",
+    "data": [
+      {
+        "text": "qu\u0027est-ce qu\u0027il y a de nouveau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12826d0a-c5e8-4548-ba06-1f790e79250d",
+    "data": [
+      {
+        "text": "quoi de ",
+        "userDefined": false
+      },
+      {
+        "text": "beau",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

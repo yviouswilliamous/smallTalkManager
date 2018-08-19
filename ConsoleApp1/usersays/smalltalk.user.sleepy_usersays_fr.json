@@ -1,0 +1,194 @@
+[
+  {
+    "id": "65eb2f6e-dac1-4f23-b686-c62631d2dd3a",
+    "data": [
+      {
+        "text": "j\u0027ai sommeil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aabf8966-7f1a-4db1-a02e-34b028668471",
+    "data": [
+      {
+        "text": "je me suis presque endormie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1d73fd8-e564-4f23-866f-238e70c36513",
+    "data": [
+      {
+        "text": "ça me donne envie de dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95c6dfd6-b056-4db5-9cdd-20f5ddaf7034",
+    "data": [
+      {
+        "text": "je dors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7605c457-a426-451e-a4f4-ee1ae83d5a9f",
+    "data": [
+      {
+        "text": "j\u0027ai sommeil là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41c4953b-384f-435e-b37b-f5d677665253",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027endors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f4f9cee-7f0a-45a8-9d8e-917a596e5bf2",
+    "data": [
+      {
+        "text": "je veux dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "873b0b22-9e79-4f6f-ae67-bebcd60f862e",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027endors là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d249ac2-25dc-4df5-9b8e-9be2a22093e8",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis en ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027endormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4072f26c-e97f-4df5-8e01-a72b257e3969",
+    "data": [
+      {
+        "text": "j\u0027ai tellement sommeil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50def056-1a85-4848-931c-49b3589a9e33",
+    "data": [
+      {
+        "text": "je suis presque endormi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

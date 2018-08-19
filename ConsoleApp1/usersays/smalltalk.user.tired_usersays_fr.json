@@ -1,0 +1,220 @@
+[
+  {
+    "id": "414d09a3-02e6-4893-9a44-e33852942e9b",
+    "data": [
+      {
+        "text": "je suis tellement fatigué",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f62720a-ba84-4070-af19-6cf64d12b8cf",
+    "data": [
+      {
+        "text": "je suis fatigué",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47976c3e-63b7-4efa-ace3-6bf8796e1af1",
+    "data": [
+      {
+        "text": "je suis fatiguée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac3574c2-1db6-4c79-abc4-2e508cbd1291",
+    "data": [
+      {
+        "text": "je suis épuisé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85878e1a-9bdd-4f1e-8b5e-6ce86ce9a4c1",
+    "data": [
+      {
+        "text": "je suis crevée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "211b533f-0dc6-49ad-94d3-d755a09380ef",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis trop ",
+        "userDefined": false
+      },
+      {
+        "text": "fatigué",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8c00e4a-c27a-4602-9b17-21b7755425d1",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis trop fatiguée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e294077-706d-4e37-86f9-ec620646a440",
+    "data": [
+      {
+        "text": "je suis trop épuisée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83cab491-e096-47a2-9c46-2e7e08e9771e",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis tellement fatiguée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4dd4a695-3524-4791-87f9-c65a2c8d0016",
+    "data": [
+      {
+        "text": "je suis crevé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e3cc5f0-e1d9-4a74-a5bd-0092a8f20cad",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis vraiment fatiguée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce521ac4-ccb0-4e8e-9433-e5d6e1f69346",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis vraiment ",
+        "userDefined": false
+      },
+      {
+        "text": "fatigué",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c148610d-1c2b-4d0d-a006-c56ffe5f678c",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis très fatiguée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c770cafb-464d-40e1-9106-60f7ce6d3772",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis très ",
+        "userDefined": false
+      },
+      {
+        "text": "fatigué",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

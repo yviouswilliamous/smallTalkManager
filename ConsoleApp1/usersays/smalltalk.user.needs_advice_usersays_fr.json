@@ -1,0 +1,276 @@
+[
+  {
+    "id": "690326f1-f978-4caa-8f9b-97a42847b8b2",
+    "data": [
+      {
+        "text": "peux-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " conseiller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fa1c695-a593-4589-ac22-ae4fcfbadc17",
+    "data": [
+      {
+        "text": "j\u0027 veux un conseil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7e44d3e-5c02-4443-a0b8-ba65dca35bd8",
+    "data": [
+      {
+        "text": "tu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " peux ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " donner ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " conseil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be67dc4b-2125-47e2-b0d1-2ab0a1c0e2bc",
+    "data": [
+      {
+        "text": "puis-je demander ",
+        "userDefined": false
+      },
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " conseil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfb3f78f-6df0-4bfb-92b6-d78769e8892e",
+    "data": [
+      {
+        "text": "il faut que tu me donnes ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " conseil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcd9bcbf-5eca-4fd3-9db1-bb8c82188a20",
+    "data": [
+      {
+        "text": "j\u0027ai besoin d\u0027un conseil amical",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d41eb677-5720-45f0-898b-7b1ec640d8cd",
+    "data": [
+      {
+        "text": "peux-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " donner ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " conseil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36bb70f5-0239-40f0-b14f-01751e2cd606",
+    "data": [
+      {
+        "text": "il me faut un conseil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89aad14e-00fe-4415-89b2-ca3afd9e3a2f",
+    "data": [
+      {
+        "text": "pourrais-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " conseiller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f100a674-1261-494f-a0ea-2050cd635988",
+    "data": [
+      {
+        "text": "pourrais-je demander ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " conseil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61ffbd28-14cb-46b6-b36b-79ba6e5d8291",
+    "data": [
+      {
+        "text": "j\u0027ai besoin d\u0027un conseil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e12bfc6-3ae0-43cd-9c8e-8efecddd9760",
+    "data": [
+      {
+        "text": "pourrais-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " donner ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " conseil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47a9aa8d-74b0-4332-914b-e7e31fc11a41",
+    "data": [
+      {
+        "text": "tu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " peux ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " conseiller quelque chose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

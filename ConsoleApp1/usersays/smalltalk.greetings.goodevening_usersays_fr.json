@@ -1,0 +1,192 @@
+[
+  {
+    "id": "46678722-cc5f-499d-9e2c-5677b2aef73c",
+    "data": [
+      {
+        "text": "bonsoir à vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66399a7a-ca5f-4855-b4b4-bc745d76f9d7",
+    "data": [
+      {
+        "text": "bon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "soir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd6f8b7f-e5d5-4480-a9bf-ffa3c88b880f",
+    "data": [
+      {
+        "text": "salut bonsoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c06e03f7-5bc7-49b4-ab23-21ab27877448",
+    "data": [
+      {
+        "text": "soir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "987553b1-aa05-4872-aeab-801073176127",
+    "data": [
+      {
+        "text": "soir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " à toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b5daaba-6497-4241-a71d-4b7b60e0823e",
+    "data": [
+      {
+        "text": "bonsoir à toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7ab1076-b5f5-427d-92f1-2ba9ffd23f72",
+    "data": [
+      {
+        "text": "j\u0027espère que tu passes ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bonne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " soirée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f5f3ed3-41f4-4817-a462-1948e46e0356",
+    "data": [
+      {
+        "text": "est-ce que tu passes ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bonne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " soirée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "512de4d2-78fc-4a70-a428-ca8ff4ae362c",
+    "data": [
+      {
+        "text": "tu passes ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bonne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " soirée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3d8f1d9-2717-4321-ac52-ed23f3da570d",
+    "data": [
+      {
+        "text": "bonsoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

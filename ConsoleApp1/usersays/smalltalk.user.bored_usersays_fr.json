@@ -1,0 +1,253 @@
+[
+  {
+    "id": "dfd3ac64-947e-4ad9-9cb3-7340f5f2cd95",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " que ",
+        "userDefined": false
+      },
+      {
+        "text": "je m\u0027ennuie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59804988-b12e-40d2-8a3e-c332a4904229",
+    "data": [
+      {
+        "text": "ça",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027ennuie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dda13dc2-7af6-4f15-8abf-ef3410cf5b74",
+    "data": [
+      {
+        "text": "je m\u0027ennuie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " énormement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03c89e7d-fe9f-4976-84fa-015cd004553b",
+    "data": [
+      {
+        "text": "je m\u0027ennuie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " trop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "704268f3-21c2-47a6-9699-bed281d3a671",
+    "data": [
+      {
+        "text": "je m\u0027ennuie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ff827dd-f4c3-4e93-9e10-7a82938d10ca",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ennuyeux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ccd35ad-cbad-4e72-a0cf-a954f951736c",
+    "data": [
+      {
+        "text": "je m\u0027ennuie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " quoi faire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6ba230f-7121-4d5b-825c-6ebf322ea5f8",
+    "data": [
+      {
+        "text": "je m\u0027ennuie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "toujours",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd28d9f1-178c-4ecc-9075-0a3ea3337dcf",
+    "data": [
+      {
+        "text": "je m\u0027ennuie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tout",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "le temps",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fe87e4a-ccb5-423c-8b13-1631de6bdec9",
+    "data": [
+      {
+        "text": "je m\u0027ennuie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59365ac5-8cc3-4e77-b68c-0d2105173a3e",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " que ",
+        "userDefined": false
+      },
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis ennuyé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

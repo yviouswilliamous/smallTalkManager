@@ -1,0 +1,257 @@
+[
+  {
+    "id": "06fe4e27-e080-4ef9-9e99-c08b053d5419",
+    "data": [
+      {
+        "text": "ça",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " rend ",
+        "userDefined": false
+      },
+      {
+        "text": "heureuse",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb77a416-6a68-437d-9b3a-c22849a70d98",
+    "data": [
+      {
+        "text": "je suis heureuse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da64b69a-5ea1-4331-a888-7a5a94f2d2ea",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis ",
+        "userDefined": false
+      },
+      {
+        "text": "super",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "heureuse",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "103e0c9f-35f9-4c2c-844b-4444b32dbba9",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis ",
+        "userDefined": false
+      },
+      {
+        "text": "super",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " heureux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0470a71-0a1c-46d3-9f43-f37870e8058e",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis très heureux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "709f3163-c463-4518-aa5c-ab4f03258b9b",
+    "data": [
+      {
+        "text": "ça",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " rend heureux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae42b4ce-a112-405e-bcc4-6b5611bdaec8",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis tellement ",
+        "userDefined": false
+      },
+      {
+        "text": "heureuse",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b57f2998-ba52-462c-a9d4-a77f3aae0c38",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis très ",
+        "userDefined": false
+      },
+      {
+        "text": "heureuse",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba81c10b-0bce-41c0-90dc-52592c1ce9bf",
+    "data": [
+      {
+        "text": "j",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027en suis heureux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc6ba763-f582-46d8-b0d3-a6cdae71e522",
+    "data": [
+      {
+        "text": "je suis heureux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "171b5574-20a8-4013-b653-580bcb5a5896",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis tellement heureux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8aecfcdc-e41e-4514-b121-ab9fdc39fb82",
+    "data": [
+      {
+        "text": "j",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027en suis ",
+        "userDefined": false
+      },
+      {
+        "text": "heureuse",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

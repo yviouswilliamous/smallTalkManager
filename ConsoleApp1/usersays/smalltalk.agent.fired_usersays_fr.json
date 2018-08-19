@@ -1,0 +1,231 @@
+[
+  {
+    "id": "28a2f064-766b-49e5-a38f-e3fedfc63368",
+    "data": [
+      {
+        "text": "tu es licenciée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15482519-dd8a-4433-baf1-990e58e85f09",
+    "data": [
+      {
+        "text": "non",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " tu es renvoyée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df280e35-d009-4c3c-a5de-4313aa920d22",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " te licencie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3181b3c-17cc-42dc-8947-09b0f4a968f8",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " te renvoie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "684a876b-c6a4-46aa-9e8e-d175c3c65de3",
+    "data": [
+      {
+        "text": "tu es licencié",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38564251-911b-49e2-a633-7f1857243445",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "le temps",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " te licencier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42089a23-62f7-440f-a3f9-4cacfce5bc8e",
+    "data": [
+      {
+        "text": "non",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027es renvoyé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5a97d45-6954-4083-8af4-43bb02c65fbc",
+    "data": [
+      {
+        "text": "non",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027es licenciée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa2e8b13-d5d2-4517-a168-5d6f7fa78095",
+    "data": [
+      {
+        "text": "t\u0027es renvoyée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e242f4c5-a8e9-4115-8c93-e61f4e186d76",
+    "data": [
+      {
+        "text": "non",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " tu es renvoyé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e04e0a5d-c166-48b1-8a97-bd60555d8a7d",
+    "data": [
+      {
+        "text": "non",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " tu es licencié",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cd73b1a-cc19-49ec-bb1d-6fd497fb1a7c",
+    "data": [
+      {
+        "text": "tu es renvoyé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

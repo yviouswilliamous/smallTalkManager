@@ -1,0 +1,419 @@
+[
+  {
+    "id": "61e5f146-ab0f-4f0b-b0ff-1aa811e16f0b",
+    "data": [
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4190195-d2d0-4ef6-a3af-aeaa14570503",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb49bb48-04ad-45c5-87c2-17b4ef3e8b94",
+    "data": [
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " vrai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6577ccc-4d99-4e23-9d90-9e8e17307fb7",
+    "data": [
+      {
+        "text": "incorrect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81e6cfa2-44ba-4b68-af07-1a0b89f0d748",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " vrai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c512364c-e814-4bfa-b77b-5d7a7c9cde99",
+    "data": [
+      {
+        "text": "cela ",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " faux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcdf5537-4fd7-4319-ba4a-cbf191ca46ef",
+    "data": [
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "du",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tout",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " vrai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c2709d8-9984-4c84-bcd1-fa5f1708256b",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " vrai ",
+        "userDefined": false
+      },
+      {
+        "text": "ça",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7de131b-0486-43a3-8610-bdb457f68430",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " faux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bdf1a961-18fc-46b1-b929-0ed85679825d",
+    "data": [
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " vrai ",
+        "userDefined": false
+      },
+      {
+        "text": "du",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tout",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d714c06-1b90-4105-be8e-4827e695cfb4",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " tellement faux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d32f13ca-a861-4e4f-858b-dbd883c7644b",
+    "data": [
+      {
+        "text": "ce",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " n\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " vrai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eed99c89-28dd-4dc5-9d5a-44abf7ac34d2",
+    "data": [
+      {
+        "text": "ce",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " n\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80b750ca-e0d0-4a7c-962c-2edc3ab0cf2a",
+    "data": [
+      {
+        "text": "ce",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " n\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " vrai ",
+        "userDefined": false
+      },
+      {
+        "text": "ça",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc286390-5b2a-4306-b921-a7b0c3bf91bc",
+    "data": [
+      {
+        "text": "ceci ",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " faux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

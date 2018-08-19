@@ -1,0 +1,200 @@
+[
+  {
+    "id": "96fb7702-78e4-4228-9a26-c6d5a9971a5c",
+    "data": [
+      {
+        "text": "réponds à la question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb231bfc-26ae-42d5-b8a9-07140dd1c1f6",
+    "data": [
+      {
+        "text": "merci de répondre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94e4099c-fc2a-41cd-b29f-a0aad0e5ce00",
+    "data": [
+      {
+        "text": "peux-tu me donner ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " réponse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bac61301-db2e-42a3-a1b4-7912fbf2c453",
+    "data": [
+      {
+        "text": "donne ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " réponse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7516c78d-c5a2-45d4-9c75-b273eb77a8e3",
+    "data": [
+      {
+        "text": "il me faut ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " réponse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6501f324-6556-408a-82b0-39a172ffbe6b",
+    "data": [
+      {
+        "text": "réponds",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57960fd2-f1c3-492c-b4d6-9a459fa44e33",
+    "data": [
+      {
+        "text": "je voudrais que tu me répondes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45801edc-433a-4d05-8dac-baf2611a1dd1",
+    "data": [
+      {
+        "text": "donne-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " réponse à ma question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a2a3ab2-84ed-4626-b070-b75a6c99a417",
+    "data": [
+      {
+        "text": "j\u0027ai besoin d\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " réponse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "497003d7-80e5-459a-8c35-d91bcc41611b",
+    "data": [
+      {
+        "text": "peux-tu le répondre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8363d9e7-b09c-47c0-afb2-eee2968ff4b3",
+    "data": [
+      {
+        "text": "réponds-moi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66ffd1c7-57cf-4768-ae6b-a77b7f4b43c9",
+    "data": [
+      {
+        "text": "j\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

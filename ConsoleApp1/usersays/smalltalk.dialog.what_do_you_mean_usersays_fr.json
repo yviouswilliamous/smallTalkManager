@@ -1,0 +1,184 @@
+[
+  {
+    "id": "45b416eb-3e1f-4ff0-a0a4-0b07b47e1c38",
+    "data": [
+      {
+        "text": "qu\u0027est-ce que tu veux dire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d708208d-3188-4118-a21d-3be22bf2cd95",
+    "data": [
+      {
+        "text": "vous",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " voulez dire quoi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d3339fd-1ba7-4d49-a6b6-b1b9e8ec3d0d",
+    "data": [
+      {
+        "text": "c\u0027est quoi que tu veux dire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "745c5341-0332-4d00-85d1-68288b61ef2a",
+    "data": [
+      {
+        "text": "tu veux dire quoi précisément",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32835272-31f4-4791-9b11-2b3d0e0067d9",
+    "data": [
+      {
+        "text": "tu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " veux quoi dire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8f0a187-778e-4408-9576-5dd728c48142",
+    "data": [
+      {
+        "text": "précise ",
+        "userDefined": false
+      },
+      {
+        "text": "ce",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " que ",
+        "userDefined": false
+      },
+      {
+        "text": "tu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " veux dire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75420e76-51cf-4940-93f0-aa7f674ed638",
+    "data": [
+      {
+        "text": "qu\u0027est-ce que tu essaie de dire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "006e09ed-32cf-4049-928c-4b03b7c0fc79",
+    "data": [
+      {
+        "text": "tu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " veux dire quoi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f45c3f46-48f7-4f1b-92a0-023e8586bdb8",
+    "data": [
+      {
+        "text": "tu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " veux dire quoi ",
+        "userDefined": false
+      },
+      {
+        "text": "au",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "juste",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f14ea9e2-8264-4f6c-b321-2dc28c432c0c",
+    "data": [
+      {
+        "text": "tu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " veux dire quoi ",
+        "userDefined": false
+      },
+      {
+        "text": "par là",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

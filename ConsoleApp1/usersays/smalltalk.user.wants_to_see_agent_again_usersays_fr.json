@@ -1,0 +1,196 @@
+[
+  {
+    "id": "c883612d-e452-4936-a831-fc410c5deea1",
+    "data": [
+      {
+        "text": "pourrait-on ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " revoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "224c9a5d-20f3-495f-8bfd-23377dc9cd55",
+    "data": [
+      {
+        "text": "et si on se revoyait plus tard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9423975c-9f29-4367-9e21-fa7dfeedde47",
+    "data": [
+      {
+        "text": "je voudrais te voir de nouveau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a583d7e-9172-4457-b924-6c95ffe79c33",
+    "data": [
+      {
+        "text": "est-ce qu\u0027on peut se revoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c6c59bc-cca3-4d1d-aca4-d876d257f8c2",
+    "data": [
+      {
+        "text": "je veux bien te revoir plus tard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3986824-4ac2-440f-bab9-c6b4baca3e9c",
+    "data": [
+      {
+        "text": "j\u0027aimerais te revoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc6d3667-0e04-4064-aed6-772825dd61cb",
+    "data": [
+      {
+        "text": "pourrai-je te revoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "246dc6d7-4710-4d23-953b-bc39ee33943f",
+    "data": [
+      {
+        "text": "ce serait super si on se revoyait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "479fa462-eae9-4bcb-8858-0963359cba53",
+    "data": [
+      {
+        "text": "pourrons-nous ",
+        "userDefined": false
+      },
+      {
+        "text": "nous",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " revoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ece3c13-eeb2-4fbe-a4aa-17a5b31a1bf7",
+    "data": [
+      {
+        "text": "peut-on ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "voir",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "plus",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " tard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a31a28f8-a02d-4213-8f23-f47ac821d354",
+    "data": [
+      {
+        "text": "ce serait bien si on se voit de nouveau ",
+        "userDefined": false
+      },
+      {
+        "text": "un jour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08b0617a-8c3a-4a1d-af3d-f69f195209be",
+    "data": [
+      {
+        "text": "j\u0027aimerais bien qu\u0027on se revoit plus tard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "9271d2de-6d3f-4c25-bd1d-057df7fe488d",
+    "data": [
+      {
+        "text": "c\u0027est mon anniversaire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cede774-307e-4068-81c6-7e3364babd89",
+    "data": [
+      {
+        "text": "j\u0027ai l\u0027anniversaire aujourd\u0027hui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35c8cff7-4427-4c21-8852-3056a3f801f0",
+    "data": [
+      {
+        "text": "mon anniversaire c\u0027est aujourd\u0027hui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88644778-0fa7-4946-9b29-6e8ca475b2f4",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mon",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " anniv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb45daab-8fbb-46b7-94e2-050627469073",
+    "data": [
+      {
+        "text": "je fête mon anniversaire aujourd\u0027hui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f1e8a3e4-e9f8-4210-9c5d-80cbd9c8be47",
+    "data": [
+      {
+        "text": "dis-moi bon anniversaire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13d71a12-0b0d-4640-8e99-ab18ccc84fba",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mon",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anniversaire",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aujourd\u0027hui",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee06f1ba-b629-4b28-bcd5-aa0f57773bd6",
+    "data": [
+      {
+        "text": "aujourd\u0027hui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " c\u0027est ",
+        "userDefined": false
+      },
+      {
+        "text": "mon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " anniversaire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c904e985-87e5-45e4-9983-f202e9899c77",
+    "data": [
+      {
+        "text": "c",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "est",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mon",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " anniv ",
+        "userDefined": false
+      },
+      {
+        "text": "aujourd\u0027hui",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "449c0d26-3765-448d-a560-c08deee7d5f7",
+    "data": [
+      {
+        "text": "c\u0027est ",
+        "userDefined": false
+      },
+      {
+        "text": "aujourd\u0027hui",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " anniversaire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

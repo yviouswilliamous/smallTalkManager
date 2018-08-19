@@ -1,0 +1,329 @@
+[
+  {
+    "id": "8ce2acb7-e100-4cf6-9258-13731ec016ff",
+    "data": [
+      {
+        "text": "j",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "ai",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " une ",
+        "userDefined": false
+      },
+      {
+        "text": "insomnie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "688b46ba-45a2-4099-a1a3-3fe301aa3d82",
+    "data": [
+      {
+        "text": "j\u0027ai pas sommeil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f47d7ef-d120-42c9-b52c-e16edb5db30a",
+    "data": [
+      {
+        "text": "insomnie",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9baa7367-f739-45de-99c5-c8ba339efd1e",
+    "data": [
+      {
+        "text": "je peux pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027endormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3ff3721-d4fb-4301-a2bb-46e35dbb2d6f",
+    "data": [
+      {
+        "text": "je n\u0027ai pas sommeil",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44960c1d-a317-4ceb-9cf8-6bcdc97ffc5e",
+    "data": [
+      {
+        "text": "j\u0027arrive pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " à ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027endormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87fa550f-625e-4a98-8b57-e98097d1fe28",
+    "data": [
+      {
+        "text": "comment ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027endormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93023c13-0f13-4c0c-b9e1-09948d067ee1",
+    "data": [
+      {
+        "text": "je n\u0027arrive pas à m\u0027endormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8023c29c-fc8c-4bc3-a268-16eb97cc05dc",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " n\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "ai",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sommeil",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a590e14c-d63e-40ff-8b04-0f7e04e4daaa",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ne",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " peux ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027endormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65c8ff46-46d9-4239-8426-80e05a4bf068",
+    "data": [
+      {
+        "text": "je n\u0027arrive pas à dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6637e60-78df-4b10-8ab6-621d9d5b6aec",
+    "data": [
+      {
+        "text": "insomniaque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "710189c0-3a4c-48c1-a5e2-293d76c7ccc9",
+    "data": [
+      {
+        "text": "comment faire",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " pour ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027endormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff12394d-5172-4dac-984e-50886282ba03",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis insomniaque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3a3d66f-4d4a-4f65-a3c0-24fe9c6310d3",
+    "data": [
+      {
+        "text": "comment faire",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pour s\u0027endormir",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

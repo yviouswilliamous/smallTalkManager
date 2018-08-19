@@ -1,0 +1,220 @@
+[
+  {
+    "id": "473659a3-1d21-4c42-8266-834c6938e0e0",
+    "data": [
+      {
+        "text": "je ",
+        "userDefined": false
+      },
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027attends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0dac84d-2c81-4914-9963-e3ff11320481",
+    "data": [
+      {
+        "text": "j\u0027attends",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28e6e115-cadf-40fd-b010-679f16f64a98",
+    "data": [
+      {
+        "text": "je vais attendre encore ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " peu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47b9f606-991f-4658-91a3-6d6d799f5913",
+    "data": [
+      {
+        "text": "j\u0027attends encore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51b202b1-17fb-4343-81c3-64728096ecb4",
+    "data": [
+      {
+        "text": "je vais attendre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9abd743-7dd0-4e92-a7e9-e71721bd7910",
+    "data": [
+      {
+        "text": "je ",
+        "userDefined": false
+      },
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027attendrai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97050c41-6fa1-4af6-b237-e25f8f61834e",
+    "data": [
+      {
+        "text": "ne je veux plus attendre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bfa5e90-ebc6-4ca0-8eda-3d95d836a1ac",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis en ",
+        "userDefined": false
+      },
+      {
+        "text": "train",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027attendre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "517ba49a-b487-460d-aad8-91478c7a0ddc",
+    "data": [
+      {
+        "text": "j\u0027attends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a433c05-2dc3-4bd2-a2af-2b8b6c045d1b",
+    "data": [
+      {
+        "text": "j\u0027attends toujours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d635c85-12f3-41b2-892d-fff032024a16",
+    "data": [
+      {
+        "text": "j",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "ai",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "attendu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fecfce7-58d4-4168-9a92-5caf3bf0eb59",
+    "data": [
+      {
+        "text": "j\u0027ai assez attendu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

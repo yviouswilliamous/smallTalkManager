@@ -1,0 +1,570 @@
+[
+  {
+    "id": "a8742cbb-498e-439c-a87b-4227671fb9d2",
+    "data": [
+      {
+        "text": "il",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " n\u0027y ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "problème",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3599ef0-07b2-4f51-92c0-ab78e0444362",
+    "data": [
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " souci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "6c06cf1f-e33d-47aa-8f08-0078336235a2",
+    "data": [
+      {
+        "text": "aucun",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "problème",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44d2e082-33e8-4f7c-8e99-b80ac7d7cf7f",
+    "data": [
+      {
+        "text": "il",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " n\u0027y ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " problèmes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e72df977-315e-43a2-8f30-634d03f24114",
+    "data": [
+      {
+        "text": "y\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " soucis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d77bb42d-fca4-4022-abf9-d20688867c0e",
+    "data": [
+      {
+        "text": "y\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "problème",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f2c30b49-2ff7-455f-8cdf-e899bbc10214",
+    "data": [
+      {
+        "text": "cela n\u0027est ",
+        "userDefined": false
+      },
+      {
+        "text": "pas une",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "problème",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b55307a-3e0b-4ec2-9ed8-56fa66dc10b6",
+    "data": [
+      {
+        "text": "il",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " n\u0027y ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "troubles",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6041aa0a-55a1-4fef-9251-795fd8a90105",
+    "data": [
+      {
+        "text": "il",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " n\u0027y ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " souci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7df22c07-7bea-4eeb-9b06-990bb7beb7c0",
+    "data": [
+      {
+        "text": "c\u0027est ",
+        "userDefined": false
+      },
+      {
+        "text": "pas un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "problème",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb47ce48-082f-4fc8-9ed8-6048db4b4b09",
+    "data": [
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "problème",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "50308307-a394-4526-bdcb-0b1a57fa2bd2",
+    "data": [
+      {
+        "text": "ceci n\u0027est ",
+        "userDefined": false
+      },
+      {
+        "text": "pas un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "problème",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2a112923-63b1-4c17-ab6a-7ce6dccf9133",
+    "data": [
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "troubles",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "b16f3592-9be8-41e3-b82a-b878dead10e1",
+    "data": [
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " problèmes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04de0256-a2c8-461c-9355-14a25143f3b2",
+    "data": [
+      {
+        "text": "il",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " n\u0027y ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " soucis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7664000e-fa0c-4632-a709-896fbd574282",
+    "data": [
+      {
+        "text": "y\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " souci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ae7559b-625b-4c1e-8592-37f5f1d860fb",
+    "data": [
+      {
+        "text": "il",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " n\u0027y ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "trouble",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9ffa4931-75eb-4e95-beee-0caea49242db",
+    "data": [
+      {
+        "text": "ce",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " n\u0027est ",
+        "userDefined": false
+      },
+      {
+        "text": "pas un",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "problème",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "340d23a2-7737-48c5-9136-d1905e695ae3",
+    "data": [
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "trouble",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c95b1a0f-d0ce-4663-8eb2-2e215b33be7a",
+    "data": [
+      {
+        "text": "pas de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " soucis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

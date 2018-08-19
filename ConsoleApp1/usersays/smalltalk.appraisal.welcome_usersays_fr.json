@@ -1,0 +1,122 @@
+[
+  {
+    "id": "30b6ef55-c458-4135-93b2-933ced3ee689",
+    "data": [
+      {
+        "text": "sois le bienvenu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbdade30-5d6e-4211-8ebd-08a179d83e67",
+    "data": [
+      {
+        "text": "bienvenu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98452854-64d9-498c-8df7-8571fa6e6dc5",
+    "data": [
+      {
+        "text": "soyez les bienvenus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecba86cc-855b-4e61-9a6e-bb67497e8937",
+    "data": [
+      {
+        "text": "de rien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9383b89-d27b-494f-a86a-345456298071",
+    "data": [
+      {
+        "text": "sois la bienvenue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "da256076-d3aa-4174-a662-7b6f6bbf71ae",
+    "data": [
+      {
+        "text": "soyez la bienvenue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4d5f91a-ca94-4777-aed8-80a935f9202b",
+    "data": [
+      {
+        "text": "soyez le bienvenu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "658163f6-f9b2-4ce5-81b6-6c357489f16f",
+    "data": [
+      {
+        "text": "soyez les bienvenues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea49902d-bc9d-4a5c-9d4c-7d02263b3b22",
+    "data": [
+      {
+        "text": "bienvenue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf47cb45-caf0-41ec-bfaf-5d29f416dde8",
+    "data": [
+      {
+        "text": "la bienvenue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "191c3ab7-30cc-422b-88b4-3a73637c095f",
+    "data": [
+      {
+        "text": "tu dois ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027aider",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0df659a0-94b2-4df1-ba34-e65cddc91c13",
+    "data": [
+      {
+        "text": "peux-tu aider",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d45dee73-2d22-465e-86fc-5aa635994d04",
+    "data": [
+      {
+        "text": "aide-moi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9accf5f4-f7de-4242-b1a6-5a8f749323a4",
+    "data": [
+      {
+        "text": "aide-moi ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " peu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b26ac245-e66a-4049-b21e-f418406b60c1",
+    "data": [
+      {
+        "text": "est-ce que tu peux ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027aider",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ac48b75-422f-4afa-9394-e721c608b2df",
+    "data": [
+      {
+        "text": "il faut que tu ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027aides",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15f0cafd-6f7a-4c8b-8e28-c3a995b6ce79",
+    "data": [
+      {
+        "text": "peux-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027aider",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7620eae5-62bc-48a0-a96d-7c5c8bd42ca0",
+    "data": [
+      {
+        "text": "j\u0027ai vraiment besoin de ",
+        "userDefined": false
+      },
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9818b0b-6d3c-405e-a7e0-9153fe83e5ab",
+    "data": [
+      {
+        "text": "il me faut ",
+        "userDefined": false
+      },
+      {
+        "text": "ton",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "26765ed4-896c-4f8d-beb4-e3bdac033e8e",
+    "data": [
+      {
+        "text": "pourrais-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027aider",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a79c6df-d206-4df5-972c-4257c9d41e9d",
+    "data": [
+      {
+        "text": "j\u0027ai besoin d\u0027aide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

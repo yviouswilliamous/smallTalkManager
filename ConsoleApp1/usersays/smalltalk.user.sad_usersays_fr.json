@@ -1,0 +1,190 @@
+[
+  {
+    "id": "8b1165e2-e1ef-45cf-a0c2-ee81f54486c0",
+    "data": [
+      {
+        "text": "ça me donne envie de pleurer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dad05f2-9897-4ad0-8059-ceaa306f5337",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis très triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55c8535c-2ef2-4666-83c3-f45950b8b97e",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " suis trop triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd95f0b8-9391-460b-be07-444f18741029",
+    "data": [
+      {
+        "text": "je me sens triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd390a59-bae8-427d-998a-6fa7afe2c9ef",
+    "data": [
+      {
+        "text": "je suis triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8312702-6bab-4f23-a375-cb66fbaea6a6",
+    "data": [
+      {
+        "text": "c\u0027est trop triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd2663eb-4388-4959-9525-7625b09cc5c1",
+    "data": [
+      {
+        "text": "je suis tout triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65028734-da81-40e4-879d-68847691aa42",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sens",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " trop triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4f99e7b-61f6-440a-b4b5-de664fe38477",
+    "data": [
+      {
+        "text": "je",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sens",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " très triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef19d0b5-0b47-4959-a1e4-50c782e1b67a",
+    "data": [
+      {
+        "text": "j\u0027ai envie de pleurer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaba38db-8148-4583-ae9e-04ac2f84144e",
+    "data": [
+      {
+        "text": "je suis de l\u0027humeur triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

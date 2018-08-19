@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a8899d71-82f8-419d-a63b-69af23e2b134",
+    "data": [
+      {
+        "text": "je suis impatient",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e341a64-78cd-42fc-bbb2-47bf16244442",
+    "data": [
+      {
+        "text": "je suis enthousiasmé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93920598-9795-499a-aab0-d8da47086d60",
+    "data": [
+      {
+        "text": "j\u0027en ai hâte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "caf8aa44-b995-44b4-b9a0-4ecdeb5ec6c7",
+    "data": [
+      {
+        "text": "je suis trop enthousiasmée pour ça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4044daca-285e-46ee-a95f-8147dbcd9dab",
+    "data": [
+      {
+        "text": "j\u0027ai hâte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

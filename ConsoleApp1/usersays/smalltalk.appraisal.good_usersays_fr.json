@@ -1,0 +1,713 @@
+[
+  {
+    "id": "0e963f4c-c895-4370-9c63-e281d662670a",
+    "data": [
+      {
+        "text": "charmante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "053bef57-b218-4341-abfc-075c356bbfbb",
+    "data": [
+      {
+        "text": "pas mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70881219-6dc5-4424-bf12-641e0da43825",
+    "data": [
+      {
+        "text": "meilleur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd0d2da0-5ca0-4a6e-8816-14ddc787e292",
+    "data": [
+      {
+        "text": "agréables",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59ffedfa-b568-4bfe-a8ad-ee72b7533f09",
+    "data": [
+      {
+        "text": "trop bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68cc519a-7c50-4fb5-bbfb-381347957a82",
+    "data": [
+      {
+        "text": "délicieux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36bb79fd-72ba-402f-918b-108491d9dbd9",
+    "data": [
+      {
+        "text": "c\u0027est super bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8b53886-184e-468b-ac94-6748f52fe195",
+    "data": [
+      {
+        "text": "assez bon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2af3210-2174-460c-9b2c-a2860ae5b538",
+    "data": [
+      {
+        "text": "bonne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01c94b71-140e-4791-82bd-dbb1fa3513e8",
+    "data": [
+      {
+        "text": "sympa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c4740ff-1839-4d7b-9506-e55388017372",
+    "data": [
+      {
+        "text": "exquis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18cd33f9-560d-435e-bd8a-0034ca4b961c",
+    "data": [
+      {
+        "text": "très ",
+        "userDefined": false
+      },
+      {
+        "text": "cool",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73e26630-91b7-49be-8f23-45323dbb7151",
+    "data": [
+      {
+        "text": "déchirant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f20cd2c3-18e6-4c03-9311-aeb7d922235b",
+    "data": [
+      {
+        "text": "excellente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed44b7d4-a8c6-4102-948c-61edd6b7ab76",
+    "data": [
+      {
+        "text": "bons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1683501-3da9-4864-8ab4-b469a585fdbb",
+    "data": [
+      {
+        "text": "sympas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a863271d-6dd3-4d76-a289-1aecd4d3c51c",
+    "data": [
+      {
+        "text": "tiptop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b831a3e8-8729-4c89-bc1e-0bf3e652bb23",
+    "data": [
+      {
+        "text": "booooons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87881a20-2159-48ed-ba7b-1867bf043dcc",
+    "data": [
+      {
+        "text": "bonnes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b1618c3-6b75-42b7-be5f-eec2f1e40942",
+    "data": [
+      {
+        "text": "c\u0027est chouette",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4cfa883-b932-48c8-8906-2a30d15a9fa7",
+    "data": [
+      {
+        "text": "c\u0027est trop ",
+        "userDefined": false
+      },
+      {
+        "text": "cool",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d73d6e7-a257-46a2-a195-3fe3915e34e9",
+    "data": [
+      {
+        "text": "parfaite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d29b3526-e068-44e7-955a-c4329e508e1d",
+    "data": [
+      {
+        "text": "charmants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cace47a8-ea2d-41cb-b3fc-3d28f8153820",
+    "data": [
+      {
+        "text": "booooon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a69d0412-9b67-466d-b7e8-dd83868fdf40",
+    "data": [
+      {
+        "text": "pas trop mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e1c8ca7-bf77-4388-a6c1-7fa57cbcfaa0",
+    "data": [
+      {
+        "text": "parfait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50d0909d-35df-4689-abba-6964afc639ac",
+    "data": [
+      {
+        "text": "trop bon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "010f6620-a01a-411a-bca3-e9c0b36f861b",
+    "data": [
+      {
+        "text": "splendide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8bbd7b8-5589-4ae2-99d8-8a3e08e63b74",
+    "data": [
+      {
+        "text": "très bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ffa1081-7205-4b9d-b7f1-3892407661fb",
+    "data": [
+      {
+        "text": "assez bons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8de65d2-e695-4e35-84c9-ac1419f07786",
+    "data": [
+      {
+        "text": "délicieuse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6ff0d72-f093-4e5f-933f-8b71ac42f430",
+    "data": [
+      {
+        "text": "chouette",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4048ab25-cd44-4df9-b721-a5ba009b56d4",
+    "data": [
+      {
+        "text": "meilleure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e210760c-c1d2-4ebf-82f7-0a5f2ec076b2",
+    "data": [
+      {
+        "text": "super",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e00015f-f0ab-46f1-8bd1-c1ca9c80b33e",
+    "data": [
+      {
+        "text": "à craquer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46273857-46cc-46b7-b373-40863166204a",
+    "data": [
+      {
+        "text": "c\u0027est bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d2f5492-3015-4e57-80cb-dbadd9ea03f7",
+    "data": [
+      {
+        "text": "boooon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79594fbc-8ddb-488e-b571-2d93c669b039",
+    "data": [
+      {
+        "text": "cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac9ff2c3-8f9f-4d68-950b-7fb228324497",
+    "data": [
+      {
+        "text": "superbe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2823913-a13f-4932-bc12-0914c7b46609",
+    "data": [
+      {
+        "text": "admirable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe8ef252-d91f-4303-8308-2157dc5d089c",
+    "data": [
+      {
+        "text": "excellent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a9cc1ee-efcd-41ea-8326-ce21eb650bad",
+    "data": [
+      {
+        "text": "fantastique",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acad5cf7-3720-4417-b390-8cd836b2b08b",
+    "data": [
+      {
+        "text": "mieux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "370a4b60-566b-4f00-a3a7-06a6722e5095",
+    "data": [
+      {
+        "text": "merveilleux",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2d63a1a-84c6-4b93-9c14-0c6a371cd33d",
+    "data": [
+      {
+        "text": "bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "258a2469-445a-44a8-a119-d54f3c547e85",
+    "data": [
+      {
+        "text": "adorable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e567bdd-95f8-4802-9b39-ba7c9ac59036",
+    "data": [
+      {
+        "text": "très bon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb6e1a0c-44b5-4a0c-88eb-de1f0caf2e06",
+    "data": [
+      {
+        "text": "boooons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ab6ae4b-271a-4fd8-be05-1601892bcf13",
+    "data": [
+      {
+        "text": "agréable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69b0f834-dafa-4cb1-a228-49e858c99e4b",
+    "data": [
+      {
+        "text": "charmant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbdbbec3-4454-4abf-a3be-9a2005014de3",
+    "data": [
+      {
+        "text": "trop ",
+        "userDefined": false
+      },
+      {
+        "text": "cool",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4317f6ae-66c2-4986-903e-b7071c4a2380",
+    "data": [
+      {
+        "text": "bon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dfcf102-c970-4152-93a8-c96c35d2dbce",
+    "data": [
+      {
+        "text": "exquise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbeae42b-e2f3-4841-8929-3ee8c73c6fe3",
+    "data": [
+      {
+        "text": "merveilleuse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bc8ab99-f01a-47b9-9073-96ee9bb84e73",
+    "data": [
+      {
+        "text": "c\u0027est trop bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b54a5002-3507-444d-a9da-5f1a424f3841",
+    "data": [
+      {
+        "text": "cools",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a84610d-9858-45d6-becc-bf7f6b4d769f",
+    "data": [
+      {
+        "text": "charmantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8694e475-08ba-49f6-8782-661cab2fe8af",
+    "data": [
+      {
+        "text": "c\u0027est super",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

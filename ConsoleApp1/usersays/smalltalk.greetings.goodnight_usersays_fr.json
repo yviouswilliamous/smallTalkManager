@@ -1,0 +1,203 @@
+[
+  {
+    "id": "cdc84f1a-2149-4360-bcad-9de3ba9a8416",
+    "data": [
+      {
+        "text": "fais de beaux rêves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7dc28bb6-d10a-4fdc-a37f-94c5596f3aad",
+    "data": [
+      {
+        "text": "beaux rêves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7af64a9a-1f5e-49b4-9857-95064069417c",
+    "data": [
+      {
+        "text": "fais des beaux rêves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0af3d0ed-ed63-470a-8a4b-23f51273e0be",
+    "data": [
+      {
+        "text": "je te souhaite de passer ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bonne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9756060e-cae0-4152-be78-5a3ef75209ec",
+    "data": [
+      {
+        "text": "bonne",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " nuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d62e67d6-4104-4572-9f3f-2cb14ce20e2c",
+    "data": [
+      {
+        "text": "passe ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bonne",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " nuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5dbc338-87a2-4545-95f4-ea73ba6433f9",
+    "data": [
+      {
+        "text": "beaux rêves à toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15ab42e5-a533-41d4-a821-9f5bc2e443ae",
+    "data": [
+      {
+        "text": "bonne",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " nuit à toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1aa79734-e7f6-438f-804c-816673e03bab",
+    "data": [
+      {
+        "text": "bonne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nuit toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65f9fa2d-3ccc-4b7f-a1e5-c76155af5a74",
+    "data": [
+      {
+        "text": "dors bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65b59d5c-613d-4463-9fd1-186a6df3548e",
+    "data": [
+      {
+        "text": "je te souhaite ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bonne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
